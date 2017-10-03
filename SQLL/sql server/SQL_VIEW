@@ -1,0 +1,3 @@
+use Northwind
+exec
+sp_tables @table_type="'VIEW'"

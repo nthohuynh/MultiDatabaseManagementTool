@@ -1,0 +1,1 @@
+create view THOAS as select * from HR.JOBS
